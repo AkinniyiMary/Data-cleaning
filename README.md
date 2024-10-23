@@ -15,5 +15,11 @@ Powerbi www.microsoftpowerbi.com
 ### Data visualisation
 
 
+### importance
+Data cleaning help analyst to create good and captivatin report just like mine ☺ 
+
+
+
+
 
 
