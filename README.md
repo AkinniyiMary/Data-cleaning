@@ -1,4 +1,4 @@
-### Title: Data-cleaning
+### Title: Power BI Data-cleaning Project
 This is another step forward in my data analysis journey.....sit back and allow me to grace your screen with my data project 😍😍😍 
 
 ### Introduction 
@@ -18,15 +18,15 @@ Micosoft Powerbi for analysis and visualization [Download here](https://www.micr
 3. Null rows removal
 4. Null column removal
 5. Text ordering
-6. Merge columns
-7. Append tables
+6. Text trimming  
+7. Replace values
 8. Concatenation
 9. Column quality,distribution and profile
 10. Table visualization
 
     
 ### Data visualisation
-
+ https://github.com/AkinniyiMary/Data-cleaning/blob/main/Screenshot%202024-10-22%20013857.png
 
 
 
