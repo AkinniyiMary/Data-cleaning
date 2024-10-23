@@ -33,11 +33,11 @@ https://github.com/AkinniyiMary/Data-cleaning/blob/main/Screenshot%202024-10-22%
 https://github.com/AkinniyiMary/Data-cleaning/blob/main/Screenshot%202024-10-22%20014033.png
 
 
-
 ### importance
-Data cleaning help analyst to create good and captivating report just like mine ☺ 
-Data cleaning helps analyst to get clearer view of their data
-Data cleaning enables end user to easily comprehend reports.
+- Data cleaning help analyst to create good and captivating report just like mine ☺.
+- Data cleaning helps analyst to get clearer view of their data.
+- Data cleaning enables end user to easily comprehend reports.
+
 
 
 
