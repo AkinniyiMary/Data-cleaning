@@ -1,4 +1,5 @@
 ### Title: Power BI Data-cleaning Project
+
 This is another step forward in my data analysis journey.....sit back and allow me to grace your screen with my data project 😍😍😍 
 
 ### Introduction 
@@ -26,7 +27,10 @@ Micosoft Powerbi for analysis and visualization [Download here](https://www.micr
 
     
 ### Data visualisation
- https://github.com/AkinniyiMary/Data-cleaning/blob/main/Screenshot%202024-10-22%20013857.png
+https://github.com/AkinniyiMary/Data-cleaning/blob/main/Screenshot%202024-10-22%20013857.png
+https://github.com/AkinniyiMary/Data-cleaning/blob/main/Screenshot%202024-10-22%20013948.png
+https://github.com/AkinniyiMary/Data-cleaning/blob/main/Screenshot%202024-10-22%20014013.png
+https://github.com/AkinniyiMary/Data-cleaning/blob/main/Screenshot%202024-10-22%20014033.png
 
 
 
