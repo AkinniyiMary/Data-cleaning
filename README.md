@@ -21,7 +21,7 @@ Micosoft Powerbi for analysis and visualization [Download here](https://www.micr
 6. Merge columns
 7. Append tables
 8. Concatenation
-9. Column quality,distribution and profile 
+9. Column quality,distribution and profile
 10. Table visualization
 
     
