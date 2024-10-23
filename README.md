@@ -25,10 +25,6 @@ Micosoft Powerbi for analysis and visualization [Download here](https://www.micr
 9. Column quality,distribution and profile
 10. Table visualization
 
-    
-### Data visualisation
-
-
 
 ### importance
 - Data cleaning help analyst to create good and captivating report just like mine ☺.
